@@ -2,7 +2,7 @@
   "name": "IceCream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/IuliaPopoaca/IceCream",
+  "homepage": "https://IuliaPopoaca.github.io/IceCream",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /IceCream/"

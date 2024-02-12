@@ -5,7 +5,7 @@
   "homepage": "https://github.com/IuliaPopoaca/IceCream",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/*.html --public-url /IceCream/"
+    "build": "parcel build src/index.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
